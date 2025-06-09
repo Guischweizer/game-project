@@ -1,0 +1,6 @@
+db_username          = "dbadmin"
+db_password          = "yourStrongPassword123"
+jwt_secret           = "your-secure-jwt-secret-key"
+stripe_secret_key    = "sk_test_your_stripe_secret_key"
+stripe_webhook_secret = "whsec_your_stripe_webhook_secret"
+repository_url       = "https://github.com/yourusername/game-project.git"
